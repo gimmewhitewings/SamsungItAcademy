@@ -24,6 +24,7 @@ public class Main {
         System.out.println(str);
 
         doSmth(str);
+
     }
 
     static void doSmth(String row) {
